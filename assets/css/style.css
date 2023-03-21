@@ -19,6 +19,7 @@
   --fs-xl: 22px;
   --fs-2xl: 30px;
   --fs-3xl: 44px;
+  --fs-4xl: 26px;
 
   /* ----------------- fw --------------- */
 
@@ -63,6 +64,9 @@
 }
 .fs_44 {
   font-size: var(--fs-3xl);
+}
+.fs_26 {
+  font-size: var(--fs-4xl);
 }
 
 .fw_400 {
